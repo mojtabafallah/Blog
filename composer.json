@@ -1,0 +1,9 @@
+{
+    "name": "mojtaba/blog",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "require": {}
+}

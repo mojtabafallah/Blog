@@ -1,6 +1,8 @@
 <?php
+
 namespace models;
-class Post extends Model
+
+class Role
 {
 
 }

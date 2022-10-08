@@ -1,6 +1,9 @@
 <?php
+namespace src\models;
+use src\core\Model;
 
-class User
+class User extends Model
 {
+
 
 }
